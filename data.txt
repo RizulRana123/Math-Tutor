@@ -1,14 +1,15 @@
-1. Change a folder into repository
+Change a folder into repository
 git init
 
-2. Add to staging
+Add to staging
 git add .
 
-3. Save to local repository
+Save to local repository
 git commit -m "Initial commit"
 
-4. Save from local repository to remote repository
+Save from local repository to remote repository
 git remote add origin YOUR_GITHUB_URL
 git branch -M main
 git push -u origin main
+
 
